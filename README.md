@@ -11,9 +11,11 @@
 | 登录界面 | 注册界面 | 首页 |
 |----------|----------|------|
 | ![登录](screenshots/entry.png) | ![注册](screenshots/registration.png) | ![首页](screenshots/home.png) |
+
 | 资产页面                         | 明细页面 | 个人中心 |
 |------------------------------|----------|----------|
 | ![资产](screenshots/Asset.png) | ![明细](screenshots/detial.png) | ![个人中心](screenshots/principal.png) |
+
 | 设置页面 | 退出登录 |
 |------|----------|
 | ![设置](screenshots/setup.png) | ![退出登录](screenshots/withdraw.png) |
