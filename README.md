@@ -10,48 +10,66 @@
 ##📸应用截图
 | 登录界面 | 注册界面 | 首页 |
 |----------|----------|------|
-| ![登录](screenshots/entry%20.png) | ![注册](screenshots/registration%20.png) | ![首页](screenshots/home.png) |
+| ![登录](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/entry.png) | ![注册](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/registration.png) | ![首页](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/home.png) |
 | 资产页面                         | 明细页面 | 个人中心 |
 |------------------------------|----------|----------|
-| ![资产](screenshots/asset.png) | ![明细](screenshots/detial.png) | ![个人中心](screenshots/principal.png) |
+| ![资产](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/Asset.png) | ![明细](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/detial.png) | ![个人中心](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/principal.png) |
 | 设置页面 | 退出登录 |
 |------|----------|
-| ![设置](screenshots/setup%20.png) | ![退出登录](screenshots/withdraw.png) |
+| ![设置](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/set up.png) | ![退出登录](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/withdraw.png) |
 
 
 ##✨功能特性
-- **用户账户管理**  
+
+- **用户账户管理**
+    
   支持注册/登录功能，保护个人财务数据安全；提供个人信息编辑、系统设置等个性化选项。
 
-- **核心记账功能**  
+- **核心记账功能**
+  
   快速记录收入/支出，支持按类别（餐饮、零食、奖金等）分类；支持多账户管理（现金、微信、支付宝等）。
 
-- **数据统计与分析**  
+- **数据统计与分析**
+  
   主页直观展示收支概览、资产负债情况；明细页面按时间维度记录所有账目；统计功能可视化展示收支趋势。
 
-- **便捷交互设计**  
+- **便捷交互设计**
+  
   底部导航栏快速切换功能模块（主页、资产、统计、我的）；简洁操作流程，三步完成一笔账目记录。
 
 ##🛠️技术栈
 
 - **开发环境**：Android Studio
+  
 - **编程语言**：Kotlin（主要）、Java（辅助）
+  
 - **布局框架**：ConstraintLayout、LinearLayout、RelativeLayout
+  
 - **数据存储**：SQLite（本地数据库）
+  
 - **架构模式**：MVC（模型-视图-控制器）
 
 ##🚀如何运行
+
 1. **克隆仓库**
+   
    ```bash
    git clone https://github.com/你的用户名/你的项目名.git
+   
 2.**打开项目**
+
 启动 Android Studio → 选择 "Open an existing project" → 导航到克隆的仓库目录并打开。
+
 3.**同步与构建**
+
 等待 Gradle 自动同步完成（或点击工具栏 "Sync Project with Gradle Files"）。
+
 4.**运行应用**
+
 连接 Android 设备（开启 USB 调试）或启动模拟器 → 点击运行按钮（▶️）→ 选择目标设备安装应用。
 
 ##📦项目结构
+
 notes
 
 │  ├── activity/                 # 活动页面（页面入口）
@@ -77,11 +95,16 @@ notes
 └── values/                   # 配置文件（颜色、字符串等）
 
 
-## 🤝 贡献指南
+##🤝贡献指南
+
 1.Fork 本仓库
+
 2.创建特性分支（git checkout -b feature/your-feature）
+
 3.提交修改（git commit -m 'Add some feature'）
+
 4.推送到分支（git push origin feature/your-feature）
+
 5.打开 Pull Request
 
 ##📄 许可证
