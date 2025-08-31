@@ -10,13 +10,13 @@
 ##📸应用截图
 | 登录界面 | 注册界面 | 首页 |
 |----------|----------|------|
-| ![登录](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/entry.png) | ![注册](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/registration.png) | ![首页](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/home.png) |
+| ![登录](screenshots/entry%20.png) | ![注册](screenshots/registration%20.png) | ![首页](screenshots/home.png) |
 | 资产页面                         | 明细页面 | 个人中心 |
 |------------------------------|----------|----------|
-| ![资产](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/Asset.png) | ![明细](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/detial.png) | ![个人中心](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/principal.png) |
+| ![资产](screenshots/asset.png) | ![明细](screenshots/detial.png) | ![个人中心](screenshots/principal.png) |
 | 设置页面 | 退出登录 |
 |------|----------|
-| ![设置](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/set up.png) | ![退出登录](https://github.com/LovelaceChangmt/android-notes-app/blob/master/screenshots/withdraw.png) |
+| ![设置](screenshots/setup%20.png) | ![退出登录](screenshots/withdraw.png) |
 
 
 ##✨功能特性
